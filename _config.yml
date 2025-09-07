@@ -22,7 +22,7 @@ repository               : "mcket747econ/mcket747econ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.png"
+  avatar           : headshot.png
   name             : "Matthew McKetty"
   pronouns         : # example: "she/her"  
   bio              : "I am an applied development economist on the 2025-2026 job market."
