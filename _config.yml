@@ -22,11 +22,11 @@ repository               : "mcket747econ/mcket747econ2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.png"
+  avatar           : #"headshot.png"
   name             : "Matthew McKetty"
   pronouns         : # example: "she/her"  
   bio              : "Development Economist on the 2025-2026 Job Market"
-  location         : "Madison, WI"
+  location         : "Madison, Wisconsin"
   employer         : "University of Wisconsin - Madison"
   uri              : # URL
   email            : "mcketty@wisc.edu" 
