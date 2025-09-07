@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "headshot.png"
-  name             : "Your Sidebar Name"
+  name             : "Matthew McKetty"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : " I am an applied development economist on the 2025-2026 job market."
+  location         : "Madison, WI"
+  employer         : "University of Wisconsin - Madison"
   uri              : # URL
   email            : "none@example.org" 
 
