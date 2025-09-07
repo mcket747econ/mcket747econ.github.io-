@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-mattmcketty.com/files/cv.pdf
+mattmcketty.com/files/McKetty_CV_0525.pdf
 
