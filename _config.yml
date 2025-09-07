@@ -13,7 +13,7 @@ title                    : "Matthew McKetty"
 title_separator          : "-"
 name                     : &name "Matthew McKetty"
 description              : &description "Welcome to my 2025-2026 Job Market Website"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://mcket747econ.github.io/mcket747econ2.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
